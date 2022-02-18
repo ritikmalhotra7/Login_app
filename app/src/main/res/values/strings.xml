@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Login Application</string>
+    <string-array name="typeOfUsers">
+        <item>Executive</item>
+        <item>HOD</item>
+        <item>Manager</item>
+    </string-array>
+</resources>
